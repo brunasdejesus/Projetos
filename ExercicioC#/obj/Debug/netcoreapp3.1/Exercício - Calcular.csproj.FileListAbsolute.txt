@@ -1,0 +1,11 @@
+C:\Users\Bruna\Desktop\ExercicioC#\Exercício - Calcular\bin\Debug\netcoreapp3.1\Exercício - Calcular.exe
+C:\Users\Bruna\Desktop\ExercicioC#\Exercício - Calcular\bin\Debug\netcoreapp3.1\Exercício - Calcular.deps.json
+C:\Users\Bruna\Desktop\ExercicioC#\Exercício - Calcular\bin\Debug\netcoreapp3.1\Exercício - Calcular.runtimeconfig.json
+C:\Users\Bruna\Desktop\ExercicioC#\Exercício - Calcular\bin\Debug\netcoreapp3.1\Exercício - Calcular.runtimeconfig.dev.json
+C:\Users\Bruna\Desktop\ExercicioC#\Exercício - Calcular\bin\Debug\netcoreapp3.1\Exercício - Calcular.dll
+C:\Users\Bruna\Desktop\ExercicioC#\Exercício - Calcular\bin\Debug\netcoreapp3.1\Exercício - Calcular.pdb
+C:\Users\Bruna\Desktop\ExercicioC#\Exercício - Calcular\obj\Debug\netcoreapp3.1\Exercício - Calcular.csprojAssemblyReference.cache
+C:\Users\Bruna\Desktop\ExercicioC#\Exercício - Calcular\obj\Debug\netcoreapp3.1\Exercício - Calcular.AssemblyInfoInputs.cache
+C:\Users\Bruna\Desktop\ExercicioC#\Exercício - Calcular\obj\Debug\netcoreapp3.1\Exercício - Calcular.AssemblyInfo.cs
+C:\Users\Bruna\Desktop\ExercicioC#\Exercício - Calcular\obj\Debug\netcoreapp3.1\Exercício - Calcular.dll
+C:\Users\Bruna\Desktop\ExercicioC#\Exercício - Calcular\obj\Debug\netcoreapp3.1\Exercício - Calcular.pdb

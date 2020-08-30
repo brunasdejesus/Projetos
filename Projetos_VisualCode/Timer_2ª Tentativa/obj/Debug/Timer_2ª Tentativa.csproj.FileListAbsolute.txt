@@ -1,0 +1,9 @@
+C:\Users\Bruna\Desktop\TesteVS\Timer_2ª Tentativa\obj\Debug\Timer_2ª Tentativa.csprojAssemblyReference.cache
+C:\Users\Bruna\Desktop\TesteVS\Timer_2ª Tentativa\obj\Debug\Timer_2ª_Tentativa.Form1.resources
+C:\Users\Bruna\Desktop\TesteVS\Timer_2ª Tentativa\obj\Debug\Timer_2ª_Tentativa.Properties.Resources.resources
+C:\Users\Bruna\Desktop\TesteVS\Timer_2ª Tentativa\obj\Debug\Timer_2ª Tentativa.csproj.GenerateResource.cache
+C:\Users\Bruna\Desktop\TesteVS\Timer_2ª Tentativa\bin\Debug\Timer_2ª Tentativa.exe.config
+C:\Users\Bruna\Desktop\TesteVS\Timer_2ª Tentativa\bin\Debug\Timer_2ª Tentativa.exe
+C:\Users\Bruna\Desktop\TesteVS\Timer_2ª Tentativa\bin\Debug\Timer_2ª Tentativa.pdb
+C:\Users\Bruna\Desktop\TesteVS\Timer_2ª Tentativa\obj\Debug\Timer_2ª Tentativa.exe
+C:\Users\Bruna\Desktop\TesteVS\Timer_2ª Tentativa\obj\Debug\Timer_2ª Tentativa.pdb

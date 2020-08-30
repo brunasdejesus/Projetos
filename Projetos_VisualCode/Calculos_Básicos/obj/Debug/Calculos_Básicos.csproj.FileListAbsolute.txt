@@ -1,0 +1,9 @@
+C:\Users\Bruna\Desktop\TesteVS\Calculos_Básicos\bin\Debug\Calculos_Básicos.exe.config
+C:\Users\Bruna\Desktop\TesteVS\Calculos_Básicos\bin\Debug\Calculos_Básicos.exe
+C:\Users\Bruna\Desktop\TesteVS\Calculos_Básicos\bin\Debug\Calculos_Básicos.pdb
+C:\Users\Bruna\Desktop\TesteVS\Calculos_Básicos\obj\Debug\Calculos_Básicos.csprojAssemblyReference.cache
+C:\Users\Bruna\Desktop\TesteVS\Calculos_Básicos\obj\Debug\Calculos_Básicos.Form1.resources
+C:\Users\Bruna\Desktop\TesteVS\Calculos_Básicos\obj\Debug\Calculos_Básicos.Properties.Resources.resources
+C:\Users\Bruna\Desktop\TesteVS\Calculos_Básicos\obj\Debug\Calculos_Básicos.csproj.GenerateResource.cache
+C:\Users\Bruna\Desktop\TesteVS\Calculos_Básicos\obj\Debug\Calculos_Básicos.exe
+C:\Users\Bruna\Desktop\TesteVS\Calculos_Básicos\obj\Debug\Calculos_Básicos.pdb

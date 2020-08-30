@@ -1,0 +1,9 @@
+C:\Users\Bruna\Desktop\TesteVS\Lista\bin\Debug\Lista.exe.config
+C:\Users\Bruna\Desktop\TesteVS\Lista\bin\Debug\Lista.exe
+C:\Users\Bruna\Desktop\TesteVS\Lista\bin\Debug\Lista.pdb
+C:\Users\Bruna\Desktop\TesteVS\Lista\obj\Debug\Lista.csprojAssemblyReference.cache
+C:\Users\Bruna\Desktop\TesteVS\Lista\obj\Debug\Lista.Form1.resources
+C:\Users\Bruna\Desktop\TesteVS\Lista\obj\Debug\Lista.Properties.Resources.resources
+C:\Users\Bruna\Desktop\TesteVS\Lista\obj\Debug\Lista.csproj.GenerateResource.cache
+C:\Users\Bruna\Desktop\TesteVS\Lista\obj\Debug\Lista.exe
+C:\Users\Bruna\Desktop\TesteVS\Lista\obj\Debug\Lista.pdb

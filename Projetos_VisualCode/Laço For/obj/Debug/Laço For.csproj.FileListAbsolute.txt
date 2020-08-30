@@ -1,0 +1,10 @@
+C:\Users\Bruna\Desktop\TesteVS\Laço For\bin\Debug\Laço For.exe.config
+C:\Users\Bruna\Desktop\TesteVS\Laço For\bin\Debug\Laço For.exe
+C:\Users\Bruna\Desktop\TesteVS\Laço For\bin\Debug\Laço For.pdb
+C:\Users\Bruna\Desktop\TesteVS\Laço For\obj\Debug\Laço For.csprojAssemblyReference.cache
+C:\Users\Bruna\Desktop\TesteVS\Laço For\obj\Debug\Laço_For.Form1.resources
+C:\Users\Bruna\Desktop\TesteVS\Laço For\obj\Debug\Laço_For.Form2.resources
+C:\Users\Bruna\Desktop\TesteVS\Laço For\obj\Debug\Laço_For.Properties.Resources.resources
+C:\Users\Bruna\Desktop\TesteVS\Laço For\obj\Debug\Laço For.csproj.GenerateResource.cache
+C:\Users\Bruna\Desktop\TesteVS\Laço For\obj\Debug\Laço For.exe
+C:\Users\Bruna\Desktop\TesteVS\Laço For\obj\Debug\Laço For.pdb

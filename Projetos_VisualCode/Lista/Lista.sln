@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista", "Lista.csproj", "{6C2B903D-E2AC-4993-9E14-523F10FB69FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "..\Login\Login.csproj", "{2DB3EB41-762C-4E97-AB1C-DA2BF877F5A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C2B903D-E2AC-4993-9E14-523F10FB69FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2B903D-E2AC-4993-9E14-523F10FB69FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2B903D-E2AC-4993-9E14-523F10FB69FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2B903D-E2AC-4993-9E14-523F10FB69FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DB3EB41-762C-4E97-AB1C-DA2BF877F5A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB3EB41-762C-4E97-AB1C-DA2BF877F5A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB3EB41-762C-4E97-AB1C-DA2BF877F5A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB3EB41-762C-4E97-AB1C-DA2BF877F5A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66A72E17-7AB2-46EC-8223-77D750C173AD}
+	EndGlobalSection
+EndGlobal

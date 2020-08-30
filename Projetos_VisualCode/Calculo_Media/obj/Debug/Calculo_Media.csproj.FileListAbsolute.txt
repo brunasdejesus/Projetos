@@ -1,0 +1,9 @@
+C:\Users\Bruna\Desktop\TesteVS\Calculo_Media\bin\Debug\Calculo_Media.exe.config
+C:\Users\Bruna\Desktop\TesteVS\Calculo_Media\bin\Debug\Calculo_Media.exe
+C:\Users\Bruna\Desktop\TesteVS\Calculo_Media\bin\Debug\Calculo_Media.pdb
+C:\Users\Bruna\Desktop\TesteVS\Calculo_Media\obj\Debug\Calculo_Media.csprojAssemblyReference.cache
+C:\Users\Bruna\Desktop\TesteVS\Calculo_Media\obj\Debug\Calculo_Media.Form1.resources
+C:\Users\Bruna\Desktop\TesteVS\Calculo_Media\obj\Debug\Calculo_Media.Properties.Resources.resources
+C:\Users\Bruna\Desktop\TesteVS\Calculo_Media\obj\Debug\Calculo_Media.csproj.GenerateResource.cache
+C:\Users\Bruna\Desktop\TesteVS\Calculo_Media\obj\Debug\Calculo_Media.exe
+C:\Users\Bruna\Desktop\TesteVS\Calculo_Media\obj\Debug\Calculo_Media.pdb

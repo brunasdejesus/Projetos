@@ -1,0 +1,10 @@
+C:\Users\Bruna\Desktop\TesteVS\Login_Senha\bin\Debug\Login_Senha.exe.config
+C:\Users\Bruna\Desktop\TesteVS\Login_Senha\bin\Debug\Login_Senha.exe
+C:\Users\Bruna\Desktop\TesteVS\Login_Senha\bin\Debug\Login_Senha.pdb
+C:\Users\Bruna\Desktop\TesteVS\Login_Senha\obj\Debug\Login_Senha.csprojAssemblyReference.cache
+C:\Users\Bruna\Desktop\TesteVS\Login_Senha\obj\Debug\Login_Senha.Form1.resources
+C:\Users\Bruna\Desktop\TesteVS\Login_Senha\obj\Debug\Login_Senha.Properties.Resources.resources
+C:\Users\Bruna\Desktop\TesteVS\Login_Senha\obj\Debug\Login_Senha.csproj.GenerateResource.cache
+C:\Users\Bruna\Desktop\TesteVS\Login_Senha\obj\Debug\Login_Senha.exe
+C:\Users\Bruna\Desktop\TesteVS\Login_Senha\obj\Debug\Login_Senha.pdb
+C:\Users\Bruna\Desktop\TesteVS\Login_Senha\obj\Debug\Login_Senha.Form2.resources

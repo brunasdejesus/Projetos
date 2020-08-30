@@ -1,0 +1,9 @@
+C:\Users\Bruna\Desktop\TesteVS\HelloWorld_Windows\bin\Debug\HelloWorld_Windows.exe.config
+C:\Users\Bruna\Desktop\TesteVS\HelloWorld_Windows\bin\Debug\HelloWorld_Windows.exe
+C:\Users\Bruna\Desktop\TesteVS\HelloWorld_Windows\bin\Debug\HelloWorld_Windows.pdb
+C:\Users\Bruna\Desktop\TesteVS\HelloWorld_Windows\obj\Debug\HelloWorld_Windows.csprojAssemblyReference.cache
+C:\Users\Bruna\Desktop\TesteVS\HelloWorld_Windows\obj\Debug\HelloWorld_Windows.Form1.resources
+C:\Users\Bruna\Desktop\TesteVS\HelloWorld_Windows\obj\Debug\HelloWorld_Windows.Properties.Resources.resources
+C:\Users\Bruna\Desktop\TesteVS\HelloWorld_Windows\obj\Debug\HelloWorld_Windows.csproj.GenerateResource.cache
+C:\Users\Bruna\Desktop\TesteVS\HelloWorld_Windows\obj\Debug\HelloWorld_Windows.exe
+C:\Users\Bruna\Desktop\TesteVS\HelloWorld_Windows\obj\Debug\HelloWorld_Windows.pdb

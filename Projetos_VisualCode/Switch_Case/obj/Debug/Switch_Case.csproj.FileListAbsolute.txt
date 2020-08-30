@@ -1,0 +1,10 @@
+C:\Users\Bruna\Desktop\TesteVS\Switch_Case\bin\Debug\Switch_Case.exe.config
+C:\Users\Bruna\Desktop\TesteVS\Switch_Case\bin\Debug\Switch_Case.exe
+C:\Users\Bruna\Desktop\TesteVS\Switch_Case\bin\Debug\Switch_Case.pdb
+C:\Users\Bruna\Desktop\TesteVS\Switch_Case\obj\Debug\Switch_Case.csprojAssemblyReference.cache
+C:\Users\Bruna\Desktop\TesteVS\Switch_Case\obj\Debug\Switch_Case.Form1.resources
+C:\Users\Bruna\Desktop\TesteVS\Switch_Case\obj\Debug\Switch_Case.Properties.Resources.resources
+C:\Users\Bruna\Desktop\TesteVS\Switch_Case\obj\Debug\Switch_Case.csproj.GenerateResource.cache
+C:\Users\Bruna\Desktop\TesteVS\Switch_Case\obj\Debug\Switch_Case.exe
+C:\Users\Bruna\Desktop\TesteVS\Switch_Case\obj\Debug\Switch_Case.pdb
+C:\Users\Bruna\Desktop\TesteVS\Switch_Case\obj\Debug\Switch_Case.Form2.resources

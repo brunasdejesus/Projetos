@@ -1,0 +1,9 @@
+C:\Users\Bruna\Desktop\TesteVS\Calculo do IMC\bin\Debug\Calculo do IMC.exe.config
+C:\Users\Bruna\Desktop\TesteVS\Calculo do IMC\bin\Debug\Calculo do IMC.exe
+C:\Users\Bruna\Desktop\TesteVS\Calculo do IMC\bin\Debug\Calculo do IMC.pdb
+C:\Users\Bruna\Desktop\TesteVS\Calculo do IMC\obj\Debug\Calculo do IMC.csprojAssemblyReference.cache
+C:\Users\Bruna\Desktop\TesteVS\Calculo do IMC\obj\Debug\Calculo_do_IMC.Form1.resources
+C:\Users\Bruna\Desktop\TesteVS\Calculo do IMC\obj\Debug\Calculo_do_IMC.Properties.Resources.resources
+C:\Users\Bruna\Desktop\TesteVS\Calculo do IMC\obj\Debug\Calculo do IMC.csproj.GenerateResource.cache
+C:\Users\Bruna\Desktop\TesteVS\Calculo do IMC\obj\Debug\Calculo do IMC.exe
+C:\Users\Bruna\Desktop\TesteVS\Calculo do IMC\obj\Debug\Calculo do IMC.pdb

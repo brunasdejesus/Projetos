@@ -1,0 +1,9 @@
+C:\Users\Bruna\Desktop\TesteVS\Variável\bin\Debug\Variável.exe.config
+C:\Users\Bruna\Desktop\TesteVS\Variável\bin\Debug\Variável.exe
+C:\Users\Bruna\Desktop\TesteVS\Variável\bin\Debug\Variável.pdb
+C:\Users\Bruna\Desktop\TesteVS\Variável\obj\Debug\Variável.csprojAssemblyReference.cache
+C:\Users\Bruna\Desktop\TesteVS\Variável\obj\Debug\Variável.Form1.resources
+C:\Users\Bruna\Desktop\TesteVS\Variável\obj\Debug\Variável.Properties.Resources.resources
+C:\Users\Bruna\Desktop\TesteVS\Variável\obj\Debug\Variável.csproj.GenerateResource.cache
+C:\Users\Bruna\Desktop\TesteVS\Variável\obj\Debug\Variável.exe
+C:\Users\Bruna\Desktop\TesteVS\Variável\obj\Debug\Variável.pdb
